@@ -26,7 +26,7 @@ Restart OpenCode afterwards.
 ## Usage
 
 - Type `/skills` and pick **interview** from the list, or
-- Ask directly: "Use the interview skill. I want to build a ..."
+- Type '@interview' followed by your prompt.
 
 The agent will ask you questions one at a time. When it has enough detail, it
 saves everything to `docs/PROJECT_SPEC.md` and uses it to build the project.
