@@ -1,4 +1,3 @@
-
 ---
 name: interview
 description: Interview the user about a software project idea, clarify requirements through adaptive questions, write an approved Markdown specification, and only then implement it.
